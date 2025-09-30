@@ -1,12 +1,28 @@
-# Hi there, I'm Janvi 👋
+# Hi there✨ **✨ **What Drives Me:**
+- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
+- 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
+- 🔍 Passionate about solving real-world problems through innovative technology
+- 🌟 Committed to building systems that make a differenceDrives Me:**
+- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
+- 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
+- 🔍 Passionate about solving real-world problems through innovative technology
+- 🌟 Committed to building systems that make a difference Janvi 👋
 
-## 🚀 About Me
-I'm a **Full-Stack Software Developer** with 3+ years of professional experience building scalable applications using **.NET, React/Next.js, Azure, and Firebase**.  
-I enjoy solving workflow challenges, building end-to-end systems, and learning new technologies that create real-world impact.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineering+Enthusiast;Problem+Solver;Innovation+Driven" alt="Typing SVG" />
+</div>
 
-- 🌱 Completed my **MSc in Computing Science (Multimedia)** at the University of Alberta  
-- 💼 Previously worked at **Tata Consultancy Services (TCS)** and **C-Tribe**  
-- 🎯 Looking to contribute to impactful projects in full-stack development and cloud engineering  
+## � GitHub Stats
+
+I'm a **Full-Stack Software Developer** with 3+ years of professional experience crafting scalable, impactful applications. My expertise spans **.NET, React/Next.js, Azure, and Firebase**, where I transform complex challenges into elegant solutions.
+
+✨ **What Drives Me:**
+- � **MSc in Computing Science (Multimedia)** from the University of Alberta
+- 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
+- 🔍 Passionate about solving real-world problems through innovative technology
+- � Committed to building systems that make a difference
+
+🎯 **Currently:** Seeking opportunities to contribute to impactful projects in full-stack development and cloud engineering  
 
 ---
 
@@ -57,11 +73,34 @@ I enjoy solving workflow challenges, building end-to-end systems, and learning n
 
 ---
 
-## 📂 Projects
+## 🌟 Featured Projects
 
-- **AI Astrologer** – Next.js + Firebase + OpenAI API → [Live Demo](https://ai-astrologer-seven.vercel.app/) | [GitHub](https://github.com/janvi-vp/ai-astrologer)  
-- **CitiSafe – Crime Reporting App** – React Native + Firebase → [GitHub](https://github.com/vinayakmalviya/InteractiveCrimeReporting)  
-- **Asthma Diagnosis App** – React Native + MongoDB → [GitHub](https://github.com/janvi-vp/AsthmaDiagnosis)  
+### 🔮 AI Astrologer
+*Personalized astrology insights powered by AI*  
+**Tech Stack:** Next.js • Firebase • OpenAI API  
+[🚀 Live Demo](https://ai-astrologer-seven.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/ai-astrologer)
+
+### 🧮 EqViz - Redefining how we see math
+*Revolutionary mathematical visualization platform*  
+**Tech Stack:** [Add your tech stack here]  
+[🚀 Live Demo](#) | [📁 GitHub](#)
+> *Transform complex equations into interactive visual experiences*
+
+### 🔗 LinkShrink
+*Smart URL shortening service*  
+**Tech Stack:** [Add your tech stack here]  
+[🚀 Live Demo](#) | [📁 GitHub](#)
+> *Simplify your links, amplify your reach*
+
+### 🛡️ CitiSafe – Crime Reporting App
+*Interactive community safety platform*  
+**Tech Stack:** React Native • Firebase  
+[📁 GitHub](https://github.com/vinayakmalviya/InteractiveCrimeReporting)
+
+### 🫁 Asthma Diagnosis App
+*Mobile health monitoring solution*  
+**Tech Stack:** React Native • MongoDB  
+[📁 GitHub](https://github.com/janvi-vp/AsthmaDiagnosis)  
 
 ---
 
@@ -73,13 +112,42 @@ I enjoy solving workflow challenges, building end-to-end systems, and learning n
 
 ---
 
-## 📫 Connect with Me
+## � GitHub Stats
 
-- 📧 Email: [patel.janvijp25@gmail.com](mailto:patel.janvijp25@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/janvi-vp](https://www.linkedin.com/in/janvi-vp)  
-- 💻 GitHub: [github.com/janvi-vp](https://github.com/janvi-vp)  
-- 🌐 Portfolio: [flowcv.me/janvi-patel](https://flowcv.me/janvi-patel)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janvi-vp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-vp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi-vp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-⭐️ From [Janvi](https://github.com/janvi-vp)
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.janvijp25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvi-vp)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janvi-vp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://flowcv.me/janvi-patel)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=janvi-vp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+</div>
+
+---
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/janvi-vp">Janvi</a> with ❤️
+</div>
