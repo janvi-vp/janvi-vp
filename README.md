@@ -111,19 +111,6 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 
 ---
 
-## � GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janvi-vp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-vp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi-vp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
