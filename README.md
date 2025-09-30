@@ -1,6 +1,5 @@
 # Hi there✨ **✨ **What Drives Me:**
-- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
-- 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
+- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alber---ssional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
 - 🔍 Passionate about solving real-world problems through innovative technology
 - 🌟 Committed to building systems that make a differenceDrives Me:**
 - 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
@@ -83,13 +82,13 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 ### 🧮 EqViz - Redefining how we see math
 *Revolutionary mathematical visualization platform*  
 **Tech Stack:** [Add your tech stack here]  
-[🚀 Live Demo](#) | [📁 GitHub](#)
+[🚀 Live Demo](https://eq-viz.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/EqViz)
 > *Transform complex equations into interactive visual experiences*
 
 ### 🔗 LinkShrink
 *Smart URL shortening service*  
 **Tech Stack:** [Add your tech stack here]  
-[🚀 Live Demo](#) | [📁 GitHub](#)
+[🚀 Live Demo](https://link-shrink-jp.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/LinkShrink)
 > *Simplify your links, amplify your reach*
 
 ### 🛡️ CitiSafe – Crime Reporting App
