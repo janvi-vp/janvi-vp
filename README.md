@@ -1,25 +1,18 @@
-# Hi there✨ **✨ **What Drives Me:**
-- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alber---ssional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
-- 🔍 Passionate about solving real-world problems through innovative technology
-- 🌟 Committed to building systems that make a differenceDrives Me:**
-- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
-- 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
-- 🔍 Passionate about solving real-world problems through innovative technology
-- 🌟 Committed to building systems that make a difference Janvi 👋
+# Hi there, I'm Janvi 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Engineering+Enthusiast;Problem+Solver;Innovation+Driven" alt="Typing SVG" />
 </div>
 
-## � GitHub Stats
+## 🚀 About Me
 
 I'm a **Full-Stack Software Developer** with 3+ years of professional experience crafting scalable, impactful applications. My expertise spans **.NET, React/Next.js, Azure, and Firebase**, where I transform complex challenges into elegant solutions.
 
 ✨ **What Drives Me:**
-- � **MSc in Computing Science (Multimedia)** from the University of Alberta
+- 🎓 **MSc in Computing Science (Multimedia)** from the University of Alberta
 - 💼 Professional experience at **Tata Consultancy Services (TCS)** and **C-Tribe**
 - 🔍 Passionate about solving real-world problems through innovative technology
-- � Committed to building systems that make a difference
+- 🌟 Committed to building systems that make a difference
 
 🎯 **Currently:** Seeking opportunities to contribute to impactful projects in full-stack development and cloud engineering  
 
