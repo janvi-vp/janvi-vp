@@ -69,19 +69,11 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 > *Simplify your links, amplify your reach*
 
 ### 🛡️ CitiSafe – Crime Reporting App
-<div align="center">
-  <img src="images/citisafe/citisafe-demo.png" alt="CitiSafe Crime Reporting Interface" width="600"/>
-</div>
-
 *Interactive community safety platform*  
 **Tech Stack:** React Native • Firebase  
 [📁 GitHub](https://github.com/vinayakmalviya/InteractiveCrimeReporting)
 
 ### 🫁 Asthma Diagnosis App
-<div align="center">
-  <img src="images/asthma-app/asthma-demo.png" alt="Asthma Diagnosis App Interface" width="600"/>
-</div>
-
 *Mobile health monitoring solution*  
 **Tech Stack:** React Native • MongoDB  
 [📁 GitHub](https://github.com/janvi-vp/AsthmaDiagnosis)  
