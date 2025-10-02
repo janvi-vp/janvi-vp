@@ -38,28 +38,50 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 ## 🌟 Featured Projects
 
 ### 🔮 AI Astrologer
+<div align="center">
+  <img src="images/ai-astrologer/home.png" width="30%"/>
+  <img src="images/ai-astrologer/daily.png" width="30%"/>
+  <img src="images/ai-astrologer//ask-the stars.png" width="30%"/>
+</div>
+
 *Personalized astrology insights powered by AI*  
 **Tech Stack:** Next.js • Firebase • OpenAI API  
-[🚀 Live Demo](https://ai-astrologer-seven.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/ai-astrologer)
+[🚀 Live Demo](https://ai-astro-jp.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/ai-astrologer)
 
 ### 🧮 EqViz - Redefining how we see math
+<div align="center">
+  <img src="images/eq-viz/home.png" alt="EqViz Mathematical Visualization" width="600"/>
+</div>
+
 *Revolutionary mathematical visualization platform*  
-**Tech Stack:** [Add your tech stack here]  
+**Tech Stack:** Next.js
 [🚀 Live Demo](https://eq-viz.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/EqViz)
 > *Transform complex equations into interactive visual experiences*
 
 ### 🔗 LinkShrink
+<div align="center">
+  <img src="images/link-shrink/home.png" alt="LinkShrink URL Shortener Interface" width="600"/>
+</div>
+
 *Smart URL shortening service*  
-**Tech Stack:** [Add your tech stack here]  
+**Tech Stack:** Next.js • Firebase  
 [🚀 Live Demo](https://link-shrink-jp.vercel.app/) | [📁 GitHub](https://github.com/janvi-vp/LinkShrink)
 > *Simplify your links, amplify your reach*
 
 ### 🛡️ CitiSafe – Crime Reporting App
+<div align="center">
+  <img src="images/citisafe/citisafe-demo.png" alt="CitiSafe Crime Reporting Interface" width="600"/>
+</div>
+
 *Interactive community safety platform*  
 **Tech Stack:** React Native • Firebase  
 [📁 GitHub](https://github.com/vinayakmalviya/InteractiveCrimeReporting)
 
 ### 🫁 Asthma Diagnosis App
+<div align="center">
+  <img src="images/asthma-app/asthma-demo.png" alt="Asthma Diagnosis App Interface" width="600"/>
+</div>
+
 *Mobile health monitoring solution*  
 **Tech Stack:** React Native • MongoDB  
 [📁 GitHub](https://github.com/janvi-vp/AsthmaDiagnosis)  
