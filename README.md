@@ -18,37 +18,7 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)  
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)  
-
-### Cloud & Infra  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
-
-### Databases  
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
-![CosmosDB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0062AD?logo=azurecosmosdb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-
----
-
-## 💼 Work Experience
+##  Work Experience
 
 ### Software Developer – Next.js & Firebase | C-Tribe  
 *Nov 2023 – Jan 2025*  
@@ -93,6 +63,36 @@ I'm a **Full-Stack Software Developer** with 3+ years of professional experience
 *Mobile health monitoring solution*  
 **Tech Stack:** React Native • MongoDB  
 [📁 GitHub](https://github.com/janvi-vp/AsthmaDiagnosis)  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)  
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)  
+
+### Cloud & Infra  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
+
+### Databases  
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+![CosmosDB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0062AD?logo=azurecosmosdb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ---
 
